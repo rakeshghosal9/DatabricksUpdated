@@ -1,0 +1,1 @@
+SELECT playlist_id,playlist_name FROM world.playlist;
