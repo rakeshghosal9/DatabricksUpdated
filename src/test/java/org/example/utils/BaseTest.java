@@ -15,7 +15,7 @@ public class BaseTest {
 
     public WebDriver WebDriverManager() {
 
-        String DEFAULT_ENVIRONMENT = "ORANGEHRM";
+        String DEFAULT_ENVIRONMENT = "DATABRICKS";
         String URL = null;
         Properties prop;
         //Validate if environment parameter is not passed from maven command line
